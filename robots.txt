@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ienaiserif.la-physis.fr/sitemap.xml
